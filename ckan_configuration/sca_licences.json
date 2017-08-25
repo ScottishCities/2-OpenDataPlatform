@@ -1,0 +1,96 @@
+// Licence list for SCA data platforms. 
+[ // Open Licences
+{ 
+  "domain_content": true, 
+  "domain_data": true, 
+  "domain_software": true, 
+  "family": "", 
+  "id": "OGL-UK-3.0", 
+  "is_generic": false, 
+  "od_conformance": "approved", 
+  "osd_conformance": "not reviewed", 
+  "maintainer": "UK Government", 
+  "status": "active", 
+  "title": "Open Government Licence 3.0 (United Kingdom)", 
+  "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+},
+  {
+    "domain_content": true, 
+    "domain_data": true, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "CC-BY-4.0", 
+    "maintainer": "Creative Commons", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Creative Commons Attribution 4.0", 
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  }, 
+  {
+    "domain_content": true, 
+    "domain_data": true, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "CC-BY-SA-4.0", 
+    "maintainer": "Creative Commons", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Creative Commons Attribution Share-Alike 4.0", 
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },  
+  {
+    "domain_content": true, 
+    "domain_data": true, 
+    "domain_software": false, 
+    "family": "Creative Commons", 
+    "id": "CC-BY-NC-4.0", 
+    "maintainer": "Creative Commons", 
+    "od_conformance": "rejected", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Creative Commons Attribution-NonCommercial 4.0", 
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  }, 
+  {
+    "domain_content": false, 
+    "domain_data": true, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "ODbL-1.0", 
+    "maintainer": "", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Open Data Commons Open Database License 1.0", 
+    "url": "http://www.opendefinition.org/licenses/odc-odbl"
+  }, // end of open licences
+  { // OSMA INSPIRE End User Licence
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "One Scotland Mapping Agreement", 
+    "id": "osma-inspire", 
+    "is_generic": false, 
+    "maintainer": "Ordnance Survey", 
+    "od_conformance": "not reviewed", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "OSMA INSPIRE End User Licence", 
+    "url": "https://www.ordnancesurvey.co.uk/business-and-government/public-sector/mapping-agreements/inspire-licence.html"
+  },
+    { // OSMA End User Licence (Scotland)
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "One Scotland Mapping Agreement", 
+    "id": "osma-end-user", 
+    "is_generic": false, 
+    "maintainer": "Ordnance Survey", 
+    "od_conformance": "not reviewed", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Public Sector End User Licence (Scotland)", 
+    "url": "https://www.ordnancesurvey.co.uk/business-and-government/licensing/licences/osma-end-user-licence.html"
+  }]
